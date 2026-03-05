@@ -1,4 +1,4 @@
-# 📊 BRVM ML Dashboard
+#  BRVM ML Dashboard
 Application de suivi et de prédiction des cours de la BRVM utilisant l'IA.
 
 - **Auteur :** BeniMeless
