@@ -1,0 +1,7 @@
+streamlit
+polars
+pandas
+typing-extensions==4.13.2
+numpy
+plotly
+scikit-learn
